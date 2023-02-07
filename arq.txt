@@ -1,0 +1,5 @@
+dependences = 
+    -rxfire é tipo a dependencia do react-firebase-hooks (import { useAuthState } from "react-firebase-hooks/auth") que é um hook
+    -firebase
+    -rxjs = 
+
